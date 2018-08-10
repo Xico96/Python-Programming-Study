@@ -1,2 +1,3 @@
 # Python-Programming-Study
-This repository is dedicated to learning Python
+This repository is dedicated to learning Python.
+From basic to infinity and beyond!!
